@@ -4,40 +4,37 @@
       "id": "1",
       "question": "What is the capital of France?",
       "correct": "C",
-      "answers": [
-        {
-          "A": "London",
-          "B": "Rome",
-          "C": "Paris",
-          "D": "Madrid"
-        }
-        ]
+      "answers":
+      [
+          {"id": "A", "value": "London"},
+          {"id": "B", "value": "Rome"},
+          {"id": "C", "value": "Paris"},
+          {"id": "D", "value": "Madrid"}
+      ]
     },
     {
       "id": "2",
       "question": "Which planet is known as the 'Red Planet'?",
       "correct": "C",
-      "answers": [
-        {
-          "A": "Jupiter",
-          "B": "Venus",
-          "C": "Mars",
-          "D": "Saturn"
-        }
-        ]
+      "answers":
+      [
+          {"id": "A", "value": "Jupiter"},
+          {"id": "B", "value": "Venus"},
+          {"id": "C", "value": "Mars"},
+          {"id": "D", "value": "Saturn"}
+      ]
     },
     {
       "id": "3",
       "question": "Who is the author of 'To Kill a Mockingbird'?",
       "correct": "B",
-      "answers": [
-        {
-          "A": "Ernest Hemingway",
-          "B": "Harper Lee",
-          "C": "F. Scott Fitzgerald",
-          "D": "Mark Twain"
-        }
-        ]
+      "answers":
+      [
+          {"id": "A", "value": "Ernest Hemingway"},
+          {"id": "B", "value": "Harper Lee"},
+          {"id": "C", "value": "F. Scott Fitzgerald"},
+          {"id": "D", "value": "Mark Twain"}
+      ]
     }
     ]
 }
